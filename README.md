@@ -6,9 +6,9 @@
 ![PyPI - License](https://img.shields.io/pypi/l/ip-area)
 
 
-pypi: [https://pypi.org/project/scrapy-util](https://pypi.org/project/ip-area)
+pypi: [https://pypi.org/project/ip-area](https://pypi.org/project/ip-area)
 
-github: [https://github.com/mouday/scrapy-util](https://github.com/mouday/ip-area)
+github: [https://github.com/mouday/ip-area](https://github.com/mouday/ip-area)
 
 整合了ip地址信息的几个网站，依次作为备用：
 
